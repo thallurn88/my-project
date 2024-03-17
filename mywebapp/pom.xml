@@ -43,7 +43,7 @@
     </distributionManagement>
 
     <build>
-        <finalName>maven-web-application</finalName>
+        <finalName>nagarjuna-web-application</finalName>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
