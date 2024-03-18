@@ -33,12 +33,12 @@
         <repository>
             <id>nexus</id>
             <name>Xenon Releases Nexus Repository</name>
-            <url>http://54.152.152.145:9001/repository/maven-releases/</url>
+            <url>http://54.164.72.237:8081/repository/nagarjuna-Release/</url>
         </repository>
         <snapshotRepository>
             <id>nexus</id>
             <name>Xenon Snapshot Nexus Repository</name>
-            <url>http://54.164.72.237:8081/repository/nagarjuna-snapshot//</url>
+            <url>http://54.164.72.237:8081/repository/nagarjuna-snapshot/</url>
         </snapshotRepository>
     </distributionManagement>
 
